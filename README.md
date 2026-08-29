@@ -8,7 +8,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Conditions
 - [x] Loops
 - [ ] Functions
-- [ ] Strings
+- [x] Strings
 - [ ] Lists
 - [ ] Tuples
 - [ ] Dictionaries
