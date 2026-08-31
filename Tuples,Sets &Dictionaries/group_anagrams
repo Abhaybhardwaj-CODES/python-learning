@@ -1,0 +1,12 @@
+word1 = "listen"
+word2 = "silent"
+
+list1 = list(word1)
+list2 = list(word2)
+
+if list1 == list2:
+    print("Anagram")
+else:
+    print("Not anagram")    
+
+
