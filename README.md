@@ -6,6 +6,8 @@ My Python learning journey — problem solving, concepts, exercises and projects
 
 - [x] Python Basics
 - [x] Conditions
+- [x] --- rock,paper,sciccsor
+- [x] --- guess the number
 - [x] Loops
 - [ ] Functions
 - [x] Strings
