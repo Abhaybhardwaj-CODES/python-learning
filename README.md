@@ -10,9 +10,11 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [ ] Functions
 - [x] Strings
 - [x] Lists
-- [ ] Tuples
-- [ ] Dictionaries
-- [ ] Sets
+- [x] Tuples
+- [x] Dictionaries
+- [x]---mini cache project using Dictionaries.
+- [x]---mini command line contact book project 
+- [x] Sets
 - [ ] File Handling
 - [ ] OOP
 - [ ] Exception Handling
