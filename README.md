@@ -12,7 +12,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Lists
 - [x] Tuples
 - [x] Dictionaries
-- [x]---mini cache project using Dictionaries.
+- [x] ---mini cache project using Dictionaries.
 - [x] ---mini command line contact book project. 
 - [x] Sets
 - [ ] File Handling
