@@ -9,7 +9,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Loops
 - [ ] Functions
 - [x] Strings
-- [ ] Lists
+- [x] Lists
 - [ ] Tuples
 - [ ] Dictionaries
 - [ ] Sets
