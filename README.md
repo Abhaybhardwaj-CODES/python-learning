@@ -6,13 +6,17 @@ My Python learning journey — problem solving, concepts, exercises and projects
 
 - [x] Python Basics
 - [x] Conditions
+- [x] --- rock,paper,sciccsor
+- [x] --- guess the number
 - [x] Loops
 - [ ] Functions
 - [x] Strings
 - [x] Lists
-- [ ] Tuples
-- [ ] Dictionaries
-- [ ] Sets
+- [x] Tuples
+- [x] Dictionaries
+- [x] ---mini cache project using Dictionaries.
+- [x] ---mini command line contact book project. 
+- [x] Sets
 - [ ] File Handling
 - [ ] OOP
 - [ ] Exception Handling
