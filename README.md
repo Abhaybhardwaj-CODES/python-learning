@@ -13,6 +13,9 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Loops
 
 - [x] Functions
+   - ⭐ mini functional calculator
+   - ⭐ Reuseable validation functions project
+   - ⭐ Student management system
 
 - [x] Strings
 
