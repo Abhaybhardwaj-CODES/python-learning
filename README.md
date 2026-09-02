@@ -5,20 +5,33 @@ My Python learning journey — problem solving, concepts, exercises and projects
 ## Progress
 
 - [x] Python Basics
+
 - [x] Conditions
-- [x] --- rock,paper,sciccsor
-- [x] --- guess the number
+  - ⭐ Rock Paper Scissors
+  - ⭐ Guess the Number
+
 - [x] Loops
-- [ ] Functions
+
+- [x] Functions
+
 - [x] Strings
+
 - [x] Lists
+
 - [x] Tuples
+
 - [x] Dictionaries
-- [x] ---mini cache project using Dictionaries.
-- [x] ---mini command line contact book project. 
+  - ⭐ Mini Cache Project
+  - ⭐ Mini Command Line Contact Book Project
+
 - [x] Sets
+
 - [ ] File Handling
+
 - [ ] OOP
+
 - [ ] Exception Handling
+
 - [ ] Modules & Packages
+
 - [ ] Projects
