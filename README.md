@@ -18,7 +18,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
    - ⭐ Student management system
 
 - [x] Strings
-
+- [x] Dunder Methods
 - [x] Lists
 
 - [x] Tuples
@@ -34,7 +34,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
 
 - [x] OOP
 
-- [ ] Exception Handling
+- [x] Exception Handling
 
 - [ ] Modules & Packages
 
