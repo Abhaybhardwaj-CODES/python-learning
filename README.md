@@ -31,7 +31,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
 
 - [ ] File Handling
 
-- [ ] OOP
+- [x] OOP
 
 - [ ] Exception Handling
 
