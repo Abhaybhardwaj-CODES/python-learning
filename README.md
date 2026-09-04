@@ -29,7 +29,8 @@ My Python learning journey — problem solving, concepts, exercises and projects
 
 - [x] Sets
 
-- [ ] File Handling
+- [x] File Handling
+  
 
 - [x] OOP
 
