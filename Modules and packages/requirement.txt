@@ -1,0 +1,3 @@
+# Generated with: pip freeze > requirements.txt
+# (Empty because this project only uses Python's built-in standard library,
+# e.g. "datetime" -- no third-party packages needed.)
