@@ -7,15 +7,15 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Python Basics
 
 - [x] Conditions
-  - ⭐ Rock Paper Scissors
-  - ⭐ Guess the Number
+  - ⭐ Rock Paper Scissors.
+  - ⭐ Guess the Number.
 
 - [x] Loops
 
 - [x] Functions
-   - ⭐ mini functional calculator
-   - ⭐ Reuseable validation functions project
-   - ⭐ Student management system
+   - ⭐ mini functional calculator.
+   - ⭐ Reuseable validation functions project.
+   - ⭐ Student management system.
 
 - [x] Strings
 - [x] Dunder Methods
@@ -24,13 +24,16 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Tuples
 
 - [x] Dictionaries
-  - ⭐ Mini Cache Project
-  - ⭐ Mini Command Line Contact Book Project
+  - ⭐ Mini Cache Project.
+  - ⭐ Mini Command Line Contact Book Project.
 
 - [x] Sets
 
 - [x] File Handling
-  - ⭐ Text Editor
+  - ⭐ Text Editor.
+  - ⭐ Student Database.
+  - ⭐ Employee Database.
+  - ⭐ log Analyzer.
   
 
 - [x] OOP
