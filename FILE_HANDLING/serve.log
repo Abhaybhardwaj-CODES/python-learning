@@ -1,0 +1,25 @@
+2026-09-05 09:01:12 INFO Server started on port 8080
+2026-09-05 09:02:15 INFO User Rahul logged in
+2026-09-05 09:03:42 INFO GET /home 200
+2026-09-05 09:04:10 WARNING High memory usage detected
+2026-09-05 09:05:33 INFO User Aman logged in
+2026-09-05 09:06:21 ERROR Database connection failed
+2026-09-05 09:07:05 INFO GET /products 200
+2026-09-05 09:08:44 WARNING Slow response time: 3.5 seconds
+2026-09-05 09:09:17 INFO User Priya logged in
+2026-09-05 09:10:02 ERROR File not found: config.json
+2026-09-05 09:11:29 INFO GET /login 200
+2026-09-05 09:12:45 INFO User Rahul logged out
+2026-09-05 09:13:18 ERROR Database timeout
+2026-09-05 09:14:52 WARNING CPU usage above 80%
+2026-09-05 09:15:30 INFO GET /dashboard 200
+2026-09-05 09:16:11 INFO User Aman logged out
+2026-09-05 09:17:39 ERROR Unauthorized access attempt
+2026-09-05 09:18:20 INFO Server health check successful
+2026-09-05 09:19:05 WARNING Disk space is low
+2026-09-05 09:20:44 INFO User Priya logged out
+2026-09-05 09:21:13 ERROR API request failed
+2026-09-05 09:22:50 INFO GET /profile 200
+2026-09-05 09:23:31 WARNING Network latency detected
+2026-09-05 09:24:16 INFO Server backup completed
+2026-09-05 09:25:42 ERROR Unable to write backup file
