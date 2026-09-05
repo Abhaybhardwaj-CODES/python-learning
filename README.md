@@ -30,6 +30,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Sets
 
 - [x] File Handling
+  - ⭐ Text Editor
   
 
 - [x] OOP
