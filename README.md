@@ -40,6 +40,6 @@ My Python learning journey — problem solving, concepts, exercises and projects
 
 - [x] Exception Handling
 
-- [ ] Modules & Packages
+- [x] Modules & Packages
 
 - [ ] Projects
