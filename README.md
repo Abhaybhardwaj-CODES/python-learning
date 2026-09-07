@@ -41,5 +41,9 @@ My Python learning journey — problem solving, concepts, exercises and projects
 - [x] Exception Handling
 
 - [x] Modules & Packages
+- [ ] Regular Expressions
+- [ ] API's
+- [ ] SQL + Python
+- [ ] Testing
 
 - [ ] Projects
