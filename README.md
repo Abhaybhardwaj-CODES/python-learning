@@ -5,7 +5,7 @@ My Python learning journey — problem solving, concepts, exercises and projects
 ## Progress
 
 - [x] Python Basics
-
+- [x] Advance Python
 - [x] Conditions
   - ⭐ Rock Paper Scissors.
   - ⭐ Guess the Number.
